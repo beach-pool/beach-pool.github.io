@@ -1,4 +1,0 @@
-[submodule "beach-pool/public"]
-	path = beach-pool/public
-	url = https://github.com/beach-pool/beach-pool.de.git
-	branch = main
